@@ -52,17 +52,17 @@
             </a>
             <ul class="navbar-nav" style="margin-left: 70%;">
                 <li class="nav-item">
-                    <a class="nav-link ml-3" href="index.html">
+                    <a class="nav-link ml-3" href="index.php">
                         <h5 style="color: rgba(224, 222, 222, 0.562);">Home</h5>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link ml-3" href="#">
+                    <a class="nav-link ml-3" href="javascript:void(0)">
                         <h5 style="color: rgb(255, 255, 255);">Cek Harga</h5>
                     </a>
                 </li>
                 <li class="nav-item ml-3">
-                    <a class="nav-link" href="Login.html">
+                    <a class="nav-link" href="Login.php">
                         <h5 style="color: rgba(224, 222, 222, 0.562);">Logout</h5>
                     </a>
                 </li>

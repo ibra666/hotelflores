@@ -18,7 +18,7 @@
 				<input type="text" placeholder="Username" id="username">
 				<br>
 				<input type="password" placeholder="Password" id="password">
-				<a href="cek_harga.html" class="button">Login<a>
+				<a href="cek_harga.php" class="button">Login<a>
 			</form>
 		</section>
 	</div>
