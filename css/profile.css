@@ -1,0 +1,39 @@
+.header{
+    font-size: 15px;
+    padding: 30px;
+    background-color: #038ade;
+    text-align: center;
+    color: white;
+}
+.h3 {
+    font-family: helvetica;
+}
+nav li{
+    display: inline;    
+    list-style-type: none;
+    margin-right: 20px;
+}
+nav{
+    background-color: #808080;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+
+}
+
+body{
+    font-family: helvetica;
+    background-color: #B0E0E6;
+}
+
+.profile{
+    order: 3;
+    padding: 40px;
+    display: contents;
+}
